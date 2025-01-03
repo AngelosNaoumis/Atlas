@@ -10,7 +10,7 @@
 <p align="center">A transparent and lightweight modification to Windows, designed to optimize performance, privacy and usability.</p>
 
 <p align="center">
-  <a href="https://atlasos.net" target="_blank">🌐 Website</a>
+  <a href="https://atlasos.net" target="_blank">🌐 Websites</a>
   •
   <a href="https://docs.atlasos.net" target="_blank">📚 Documentation</a>
   •
